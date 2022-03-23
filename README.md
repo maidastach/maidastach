@@ -14,7 +14,8 @@ Node.js,
 MongoDB,
 Express.js,
 React.js,
-Angular
+Angular,
+Ionic
 
 Some minor knowledge of:
 C,
