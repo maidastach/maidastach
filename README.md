@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maidastach
-- 👀 I’m interested in Tech and Programming, when not Coding I am an doing some Sport activity or Cooking, I am Italian and also work as Pizza Chef since 10+yrs
+- 👀 I’m interested in Tech and Programming, when not Coding I am an doing some Sport activity or Cooking, I am Italian
 - 🌱 I’m currently working as Full Stack Developer, with MERN and MEAN stacks. 
 - 💞️ I’m looking to collaborate on projects relating the AI or Blockchain
 - 📫 How to reach me? email me at info@salderosa.com
