@@ -1,32 +1,17 @@
 - 👋 Hi, I’m @maidastach
-- 👀 I’m interested in Tech and Programming, when not Coding I am an doing some Sport activity or Cooking, I am Italian
-- 🌱 I’m currently working as Full Stack Developer, with MERN and MEAN stacks. 
-- 💞️ I’m looking to collaborate on projects relating the AI or Blockchain
-- 📫 How to reach me? email me at info@salderosa.com
+- 👀 I’m interested in Tech and Programming, when not Coding I am doing Sport activity.
+- 🌱 I’m currently working as Full Stack Developer. 
 
 ## 🛠 Skills
-Good knowledge of:
-Javascript,
-Typescript,
-Html5,
-Css3,
-Node.js,
+Typescript (Angular, React.js, Node.js),
+C#,
+.NET,
 MongoDB,
-Express.js,
-React.js,
-Angular,
-Ionic
-
-Some minor knowledge of:
-C,
-PHP,
-Mysql,
-Python,
-AWS Cloud Services
+SQL
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://salderosa.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvatore-de-rosa-270717/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvatore-de-rosa-aus/)
 
 <!---
 maidastach/maidastach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
